@@ -1,4 +1,10 @@
 ba测试回到以前版本的文件。
 增加的内容 & simple
+<<<<<<< Updated upstream
 增加的内容 and simplie
 修改bug
+=======
+增加的内容 and simple
+临时需要保存的工作
+>>>>>>> Stashed changes
+修改了恢复stash产生的冲突
